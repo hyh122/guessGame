@@ -13,7 +13,11 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
-
+/**
+ * 
+ * @author hyh
+ *
+ */
 public class GameActivity extends Activity implements OnClickListener{
 	private TextView tv_level,tv_timer;
 	private Button btn_guoguan,btn_false;
